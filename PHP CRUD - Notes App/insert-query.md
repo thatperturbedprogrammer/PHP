@@ -1,0 +1,1 @@
+INSERT INTO `notes` (`title`, `description`) VALUES ('Learn React', 'in 20 days');
